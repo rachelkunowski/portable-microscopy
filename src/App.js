@@ -36,9 +36,9 @@ class App extends Component {
               <Navbar.Toggle aria-controls="basic-navbar-nav" />
               <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="">
-                  <Link className="nav-link" to="/ewh-portable-microscopy/classify">Classify</Link>
-                  <Link className="nav-link" to="/ewh-portable-microscopy">Instructions</Link>
-                  <Link className="nav-link" to="/ewh-portable-microscopy/about">About</Link>
+                  <Link className="nav-link" to="/portable-microscopy/classify">Classify</Link>
+                  <Link className="nav-link" to="/portable-microscopy">Instructions</Link>
+                  <Link className="nav-link" to="/portable-microscopy/about">About</Link>
                 </Nav>
               </Navbar.Collapse>
             </Navbar>
