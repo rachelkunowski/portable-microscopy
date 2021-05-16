@@ -7,8 +7,8 @@ import NotFound from './pages/NotFound';
 
 export default ({ childProps }) =>
   <Switch>
-    <Route path="/ewh-portable-microscopy/classify" exact component={Classify} props={childProps} />
-    <Route path="/ewh-portable-microscopy" exact component={Instructions} props={childProps} />
-    <Route path="/ewh-portable-microscopy/about" exact component={About} props={childProps} />
+    <Route path="/portable-microscopy/classify" exact component={Classify} props={childProps} />
+    <Route path="/portable-microscopy" exact component={Instructions} props={childProps} />
+    <Route path="/portable-microscopy/about" exact component={About} props={childProps} />
     <Route component={NotFound} />
   </Switch>;
