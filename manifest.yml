@@ -4,5 +4,5 @@ applications:
    memory: 512M
    disk_quota: 2048M
    routes:
-   - route: sarayupai.github.io/ewh-portable-microscopy/
+   - route: rachelkunowski.github.io/ewh-portable-microscopy/
    command: npm run start-prod
