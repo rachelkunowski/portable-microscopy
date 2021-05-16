@@ -1,1 +1,1 @@
-# ewh-portable-microscopy
+# portable-microscopy
