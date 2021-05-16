@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ewh-portable-microscopy/static/css/main.0faf5e9c.chunk.css",
-    "main.js": "/ewh-portable-microscopy/static/js/main.1d0cd56c.chunk.js",
-    "main.js.map": "/ewh-portable-microscopy/static/js/main.1d0cd56c.chunk.js.map",
-    "runtime-main.js": "/ewh-portable-microscopy/static/js/runtime-main.fe72d50b.js",
-    "runtime-main.js.map": "/ewh-portable-microscopy/static/js/runtime-main.fe72d50b.js.map",
-    "static/css/2.f23adf77.chunk.css": "/ewh-portable-microscopy/static/css/2.f23adf77.chunk.css",
-    "static/js/2.976b7c60.chunk.js": "/ewh-portable-microscopy/static/js/2.976b7c60.chunk.js",
-    "static/js/2.976b7c60.chunk.js.map": "/ewh-portable-microscopy/static/js/2.976b7c60.chunk.js.map",
-    "index.html": "/ewh-portable-microscopy/index.html",
-    "static/css/2.f23adf77.chunk.css.map": "/ewh-portable-microscopy/static/css/2.f23adf77.chunk.css.map",
-    "static/css/main.0faf5e9c.chunk.css.map": "/ewh-portable-microscopy/static/css/main.0faf5e9c.chunk.css.map",
-    "static/js/2.976b7c60.chunk.js.LICENSE.txt": "/ewh-portable-microscopy/static/js/2.976b7c60.chunk.js.LICENSE.txt"
+    "main.css": "/portable-microscopy/static/css/main.f42239c9.chunk.css",
+    "main.js": "/portable-microscopy/static/js/main.4f54429c.chunk.js",
+    "main.js.map": "/portable-microscopy/static/js/main.4f54429c.chunk.js.map",
+    "runtime-main.js": "/portable-microscopy/static/js/runtime-main.e25f1b85.js",
+    "runtime-main.js.map": "/portable-microscopy/static/js/runtime-main.e25f1b85.js.map",
+    "static/css/2.f23adf77.chunk.css": "/portable-microscopy/static/css/2.f23adf77.chunk.css",
+    "static/js/2.5a4e1851.chunk.js": "/portable-microscopy/static/js/2.5a4e1851.chunk.js",
+    "static/js/2.5a4e1851.chunk.js.map": "/portable-microscopy/static/js/2.5a4e1851.chunk.js.map",
+    "index.html": "/portable-microscopy/index.html",
+    "static/css/2.f23adf77.chunk.css.map": "/portable-microscopy/static/css/2.f23adf77.chunk.css.map",
+    "static/css/main.f42239c9.chunk.css.map": "/portable-microscopy/static/css/main.f42239c9.chunk.css.map",
+    "static/js/2.5a4e1851.chunk.js.LICENSE.txt": "/portable-microscopy/static/js/2.5a4e1851.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fe72d50b.js",
+    "static/js/runtime-main.e25f1b85.js",
     "static/css/2.f23adf77.chunk.css",
-    "static/js/2.976b7c60.chunk.js",
-    "static/css/main.0faf5e9c.chunk.css",
-    "static/js/main.1d0cd56c.chunk.js"
+    "static/js/2.5a4e1851.chunk.js",
+    "static/css/main.f42239c9.chunk.css",
+    "static/js/main.4f54429c.chunk.js"
   ]
 }
